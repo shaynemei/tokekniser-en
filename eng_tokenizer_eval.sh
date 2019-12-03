@@ -1,3 +1,3 @@
 #!/bin/bash
 
-python eval_LD.py
+python3 script/eval_LD.py
